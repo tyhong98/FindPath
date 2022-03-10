@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tab_car"
+        android:enabled="true"
+        android:icon="@drawable/delivery"
+        android:title="배달시작"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/tab_trafic"
+        android:enabled="true"
+        android:icon="@drawable/trafic"
+        android:title="교통상황"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/tab_shop"
+        android:enabled="true"
+        android:icon="@drawable/shop"
+        android:title="편의시설"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/tab_bike"
+        android:enabled="true"
+        android:icon="@drawable/bike"
+        android:title="공용자전거"
+        app:showAsAction="ifRoom" />
+</menu>

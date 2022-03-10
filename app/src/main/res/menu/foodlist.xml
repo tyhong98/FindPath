@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="면"
+        android:id="@+id/item1"/>
+
+    <item
+        android:title="치킨"
+        android:id="@+id/item2"/>
+
+    <item android:title="족발"
+        android:id="@+id/item3"/>
+
+    <item android:title="고기"
+        android:id="@+id/item4"/>
+
+    <item android:title="해산물"
+        android:id="@+id/item5"/>
+
+    <item android:title="스낵"
+        android:id="@+id/item6"/>
+
+</menu>

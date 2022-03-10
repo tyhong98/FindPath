@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="food1_list">
+        <item>냉면 / 라면 / 우동 / 짜장면 / 짬뽕 / 쌀국수 / 파스타</item>
+        <item>국밥 / 탕 / 찌개 /  찜 / 죽 / 스프 / 아이스크림</item>
+        <item>돈가쓰 / 치킨 / 탕수육 / 버거 / 피자 / 찜닭 / 떡볶이</item>
+        <item>갈비 / 삼겹살 / 곱창 / 양꼬치 / 족발 / 쭈꾸미 / 닭발</item>
+        <item>짜장 / 카레 / 덮밥 / 볶음밥 / 도시락 / 음료 / 만두</item>
+        <item>김밥 / 샌드위치 / 회 / 순대 / 샐러드 / 빵</item>
+        <item>치약 / 펜 / 면도기 / 양말 / 생활용품</item>
+
+
+    </string-array>
+
+    <string-array name="food2_list">
+        <item>냉면 / 라면 / 우동 / 짜장면 / 짬뽕 / 쌀국수 / 파스타</item>
+        <item>국밥 / 탕 / 찌개 /  찜 / 죽 / 스프 / 아이스크림</item>
+        <item>돈가쓰 / 치킨 / 탕수육 / 버거 / 피자 / 찜닭 / 떡볶이</item>
+        <item>갈비 / 삼겹살 / 곱창 / 양꼬치 / 족발 / 쭈꾸미 / 닭발</item>
+        <item>짜장 / 카레 / 덮밥 / 볶음밥 / 도시락 / 음료 / 만두</item>
+        <item>김밥 / 샌드위치 / 회 / 순대 / 샐러드 / 빵</item>
+        <item>치약 / 펜 / 면도기 / 양말 / 생활용품</item>
+
+    </string-array>
+
+</resources>

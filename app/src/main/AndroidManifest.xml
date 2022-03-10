@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.test20211227">
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" ></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"></uses-permission>
+
+
+
+    <application
+        android:name=".GlobalApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_kk_round"
+        android:label="KnockKnock"
+        android:roundIcon="@mipmap/ic_launcher_kk_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Test20211227"
+        android:usesCleartextTraffic="true"
+        android:networkSecurityConfig="@xml/network_security_config"
+        >
+        <activity
+            android:name=".GoogleLoginResultActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KakaoLoginSubActivity"
+            android:exported="false" />
+        <meta-data
+            android:name="com.kakao.sdk.AppKey"
+            android:value="dc3f214a4a230e68b7565dc49fcc6f57" />
+        <activity
+            android:name=".IntroActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.kakao.sdk.auth.AuthCodeHandlerActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <!-- Redirect URI: "kakao{NATIVE_APP_KEY}://oauth" -->
+                <data android:host="oauth"
+                    android:scheme="kakaobaa7f76f505d9576a230de6cd52867cb" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".MainActivity_logout"/>
+        <activity android:name=".MainActivity_login"/>
+        <activity android:name=".LoginActivity"/>
+        <activity android:name=".RegisterActivity"/>
+        <activity android:name=".IssueActivity"/>
+        <activity android:name=".FindPath"/>
+        <activity android:name=".StoreCar"/>
+        <activity android:name=".GasCar"/>
+        <activity android:name=".ToiletCar"/>
+        <activity android:name=".PopupActivity"/>
+        <activity android:name=".StorePedestrian"/>
+        <activity android:name=".GasPedestrian"/>
+        <activity android:name=".ToiletPedestrian"/>
+        <activity android:name=".DeliveryActivity"/>
+        <activity android:name=".MemberActivity"/>
+        <activity android:name=".MemberModifyActivity"/>
+        <activity android:name=".DeliveryPopupActivity"/>
+        <activity android:name=".KakaoRegisterActivity"/>
+
+
+    </application>
+
+</manifest>

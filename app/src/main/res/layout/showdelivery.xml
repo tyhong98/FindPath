@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <TextView
+        android:id="@+id/deliveryTitle"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_centerHorizontal="true"
+        android:background="#4682C2"
+        android:gravity="center"
+        android:text="배달 내역"
+        android:textColor="#fff"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="630dp"
+        android:layout_above="@+id/deliveryCancelTitle"
+        android:layout_below="@+id/deliveryTitle"
+        android:layout_marginTop="-1dp"
+        android:layout_marginBottom="-3dp"
+        android:orientation="vertical"
+        android:paddingTop="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/deliveryFoodTitle"
+                android:layout_width="5dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:background="@drawable/border_bottom"
+                android:gravity="center"
+                android:text="음식 이름" />
+
+            <TextView
+                android:id="@+id/deliveryFood"
+                android:layout_width="5dp"
+                android:layout_height="50dp"
+                android:layout_weight="2"
+                android:background="@drawable/border_bottom"
+                android:gravity="center"
+
+                android:text="" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="20dp">
+
+            <TextView
+                android:id="@+id/deliveryDateTitle"
+                android:layout_width="5dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:background="@drawable/border_bottom"
+                android:gravity="center"
+                android:text="배달 날짜" />
+
+            <TextView
+                android:id="@+id/deliveryDate"
+                android:layout_width="5dp"
+                android:layout_height="50dp"
+                android:layout_weight="2"
+                android:background="@drawable/border_bottom"
+                android:gravity="center"
+                android:text="" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="20dp">
+
+            <TextView
+                android:id="@+id/restaurantAddressTitle"
+                android:layout_width="5dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:background="@drawable/border_bottom"
+                android:gravity="center"
+                android:text="식당 주소" />
+
+            <TextView
+                android:id="@+id/restaurantAddress"
+                android:layout_width="5dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:background="@drawable/border_bottom"
+                android:gravity="center"
+                android:text="" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="20dp">
+
+            <TextView
+                android:id="@+id/deliveryAddressTitle"
+                android:layout_width="5dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:background="@drawable/border_bottom"
+                android:gravity="center"
+                android:text="배달 주소" />
+
+            <TextView
+                android:id="@+id/deliveryAddress"
+                android:layout_width="5dp"
+                android:layout_height="50dp"
+                android:layout_weight="2"
+                android:background="@drawable/border_bottom"
+                android:gravity="center"
+                android:text="" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="20dp">
+
+            <TextView
+                android:id="@+id/deliveryMeansTitle"
+                android:layout_width="5dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:background="@drawable/border_bottom"
+                android:gravity="center"
+                android:text="이용 수단" />
+
+            <TextView
+                android:id="@+id/deliveryMeans"
+                android:layout_width="5dp"
+                android:layout_height="50dp"
+                android:layout_weight="2"
+                android:background="@drawable/border_bottom"
+                android:gravity="center"
+                android:text="" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="20dp">
+
+            <TextView
+                android:id="@+id/deliveryEtcTitle"
+                android:layout_width="5dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:background="@drawable/border_bottom"
+                android:gravity="center"
+                android:text="특이사항" />
+
+            <TextView
+                android:id="@+id/deliveryEtc"
+                android:layout_width="5dp"
+                android:layout_height="50dp"
+                android:layout_weight="2"
+                android:background="@drawable/border_bottom"
+                android:gravity="center"
+                android:text="" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/deliveryCancelTitle"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:minHeight="56dp"
+        android:orientation="horizontal"
+        android:weightSum="3"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true">
+
+        <TextView
+            android:id="@+id/deliveryCancel"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#757575"
+            android:gravity="center"
+            android:text="취소"
+            android:textColor="#fff"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</RelativeLayout>

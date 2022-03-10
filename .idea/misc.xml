@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Bit/Demo_final/app/src/main/res/layout/delivery_activity.xml" value="0.1259259259259259" />
+        <entry key="..\:/Bit/Demo_final/app/src/main/res/layout/issue_activity.xml" value="0.20260416666666667" />
+        <entry key="..\:/Bit/Demo_final/app/src/main/res/layout/kakao_register.xml" value="0.30925925925925923" />
+        <entry key="..\:/Bit/Demo_final/app/src/main/res/layout/member_modify_activity.xml" value="0.30925925925925923" />
+        <entry key="..\:/Bit/Demo_final/app/src/main/res/layout/popup_activity.xml" value="0.20260416666666667" />
+        <entry key="..\:/Bit/Demo_final/app/src/main/res/layout/shownotice.xml" value="0.12685185185185185" />
+        <entry key="..\:/Demo_final (2)/app/src/main/res/layout/findpath.xml" value="0.2546875" />
+        <entry key="..\:/Users/khbfo/AndroidStudioProjects/Demo_final/app/src/main/res/layout/activity_main_login.xml" value="0.234375" />
+        <entry key="..\:/Users/khbfo/AndroidStudioProjects/Demo_final/app/src/main/res/layout/activity_main_logout.xml" value="0.18181818181818182" />
+        <entry key="..\:/Users/khbfo/AndroidStudioProjects/Demo_final/app/src/main/res/layout/delivery_activity.xml" value="0.234375" />
+        <entry key="..\:/Users/khbfo/AndroidStudioProjects/Demo_final/app/src/main/res/layout/fragment_1.xml" value="0.234375" />
+        <entry key="..\:/Users/khbfo/AndroidStudioProjects/Demo_final/app/src/main/res/layout/popup_activity.xml" value="0.234375" />
+        <entry key="..\:/Users/khbfo/AndroidStudioProjects/Demo_final/app/src/main/res/menu/menu_bottom.xml" value="0.264" />
+        <entry key="..\:/Users/khbfo/AndroidStudioProjects/Demo_final/app/src/main/res/menu/navi_login_menu.xml" value="0.234375" />
+        <entry key="..\:/Users/khbfo/AndroidStudioProjects/Demo_final/app/src/main/res/menu/navi_logout_menu.xml" value="0.234375" />
+        <entry key="..\:/Users/khbfo/AndroidStudioProjects/Demo_final/app/src/main/res/menu/navi_menu.xml" value="0.264" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable/border_bottom.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable/bus_button.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable/button_shape.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable/button_style.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable/button_transport.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable/car_button.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable/change_btn.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable/findpath_btn.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable/ic_launcher_background.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable/ic_main_background.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable/menu_selector_color.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable/pedestrian_button.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable/storebtn_xml.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable/switch_thumb.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable/switch_thumb_selector.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable/switch_track_off.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable/switch_track_on.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable/switch_track_selector.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/drawable/view_menu_icon.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/activity_main_login.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/activity_main_logout.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/activity_register.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/delivery_activity.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/findpath.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/fragment5.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/fragment_1.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/fragment_2.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/fragment_3.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/fragment_4.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/gascar_activity.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/gaspedestrian_activity.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/google_register.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/googlelogin_result.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/intro_activity.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/issue_activity.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/kakao_register.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/kakaologin_result.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/listitem.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/login_activity.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/member_activity.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/member_modify_activity.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/navi_header.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/showdelivery.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/shownotice.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/storecar_activity.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/storepedestrian_activity.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/test.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/toiletcar_activity.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/toiletcat_activity.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/layout/toiletpedestrian_activity.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/menu/foodlist.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/menu/menu_bottom.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/menu/navi_login_menu.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/menu/navi_logout_menu.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/menu/navi_menu.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/mipmap-anydpi-v26/ic_main.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/psw82/AndroidStudioProjects/Demo_final/app/src/main/res/mipmap-anydpi-v26/ic_main_round.xml" value="0.38229166666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

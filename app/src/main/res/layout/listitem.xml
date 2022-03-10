@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_marginTop="0dp"
+    android:layout_height="50dp">
+
+    <TextView
+        android:id="@+id/issueText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/border_bottom"
+        android:clickable="true"
+        android:focusable="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:gravity="center_vertical"
+        android:text="text text text text"
+        android:textSize="15dp" />
+
+</RelativeLayout>
